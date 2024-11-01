@@ -34,6 +34,7 @@ Docker Compose: Docker Compose가 설치되어 있어야 합니다. 보통 Docke
 1. 이 저장소를 클론합니다. (GitHub에 올린 경우)
 
 git clone https://github.com/dorikun/catapp.git
+
 cd catapp
 
 2. Docker 이미지 빌드:
