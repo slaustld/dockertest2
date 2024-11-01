@@ -1,0 +1,14 @@
+{
+    "name": "cat-picture-app",
+    "version": "1.0.0",
+    "description": "A random cat picture server",
+    "main": "src/index.js",
+    "scripts": {
+      "start": "node src/index.js"
+    },
+    "dependencies": {
+      "axios": "^0.23.0",
+      "express": "^4.17.1"
+    }
+  }
+  

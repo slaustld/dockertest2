@@ -1,0 +1,8 @@
+version: '3'
+services:
+  app:
+    build: .
+    container_name: catapp  # 원하는 컨테이너 이름
+    image: catapp  # 원하는 이미지 이름
+    ports:
+      - "8080:8080"
